@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "expoamplify20221231",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
